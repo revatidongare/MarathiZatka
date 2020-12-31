@@ -32,8 +32,9 @@
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
 						<h2>The Marathi Zhataka</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae neque quisquam at deserunt ab praesentium architecto tempore saepe animi voluptatem molestias, eveniet aut laudantium alias, laboriosam excepturi, et numquam? Atque tempore iure tenetur perspiciatis, aliquam, asperiores aut odio accusamus, unde libero dignissimos quod aliquid neque et illo vero nesciunt. Sunt!</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam iure reprehenderit nihil nobis laboriosam beatae assumenda tempore, magni ducimus abentey.</p>
+						<p>The Marathi jhatkaya of Shri Ravi Sheth Potfode in Tungarli village of Lonavla,
+						beautiful and attractive hotel makes you take a look at it at least once due to its emphasis on different styles of interior and Marathi dishes.</p>
+						<p>The Veg/Non-veg misal ,Veg/Non-veg Special Thali </p>
 						<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>
 					</div>
 				</div>
