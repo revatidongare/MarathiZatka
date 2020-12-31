@@ -15,7 +15,7 @@
 				<div class="col-md-12 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<h1>Marathi Zhatka Restaurant</h1>
+							<h1>Marathi Zhatkaa Restaurant</h1>
 							<!--<h2>Brought to you by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>-->
 						</div>
 					</div>
@@ -28,14 +28,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-pull-2 img-wrap animate-box" data-animate-effect="fadeInLeft">
-					<img src="images/mm1.jpg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+					<img src="images/p1.jpg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
 				</div>
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h2>The Marathi Zhatka</h2>
+						<h2>The Marathi Zhatkaa</h2>
 						<p></p>
 						<p></p>
-						<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>
+						<!--<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>-->
 					</div>
 				</div>
 			</div>
@@ -47,16 +47,16 @@
 			<div class="row">
 				<div class="col-md-12 fh5co-heading animate-box">
 					<h2>Menu</h2>
-					<div class="row">
+					<!--<div class="row">
 						<div class="col-md-6">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis. Ad magni perspiciatis, voluptatum repellat.</p>
 						</div>
-					</div>
+					</div>-->
 				</div>
 				
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item">
-						<img src="images/vegmisal.jpg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<img src="images/vegmisal.jpg" class="img-responsive" alt="">
 						<h3>Veg Misal</h3>
 						<span class="fh5co-price">Rs.50<sup>.00</sup></span>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero alias quaerat inventore molestias vel suscipit explicabo.</p>
@@ -160,22 +160,6 @@
 		</div>
 	</div>
 	<!--/specialmenu-->
-
-	<!--BOOK A TABLE-->
-	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Book a Table</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae enim quae vitae cupiditate, sequi quam ea id dolor reiciendis consectetur repudiandae. Rem quam, repellendus veniam ipsa fuga maxime odio? Eaque!</p>
-					<p><a href="reservation.html" class="btn btn-primary btn-outline">Book Now</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--/BOOK A TABLE -->
-
 	<!--TESTIMONY-->
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
@@ -201,6 +185,20 @@
 			</div>
 		</div>
 	</div>
+<!--BOOK A TABLE-->
+	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Book a Table</h2>
+					<p>Reserve Your Table Today!!</p>
+					<p><a href="booktable.php" class="btn btn-primary btn-outline">Book Now</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/BOOK A TABLE -->
 
 	<!--/TESTIMONY-->
 

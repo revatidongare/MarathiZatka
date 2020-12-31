@@ -15,7 +15,7 @@
 				<div class="col-md-12 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<h1>About <em>our</em> Restaurant</h1>
+						<!--<h1>About <em>our</em> Restaurant</h1>-->
 						</div>
 					</div>
 				</div>
@@ -27,13 +27,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-pull-4 img-wrap animate-box" data-animate-effect="fadeInLeft">
-					<img src="images/p1.jpg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+					<img src="images/mm1.jpg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
 				</div>
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
 						<h2>The Marathi Zhataka</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae neque quisquam at deserunt ab praesentium architecto tempore saepe animi voluptatem molestias, eveniet aut laudantium alias, laboriosam excepturi, et numquam? Atque tempore iure tenetur perspiciatis, aliquam, asperiores aut odio accusamus, unde libero dignissimos quod aliquid neque et illo vero nesciunt. Sunt!</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam iure reprehenderit nihil nobis laboriosam beatae assumenda tempore, magni ducimus abentey.</p>
+						<p>Blog for Marathi Zataka,Lonavala.....</p>
+						<p></p>
 						<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>
 					</div>
 				</div>
@@ -138,7 +138,7 @@
 		</div>
 	</div>-->
 
-	<div id="fh5co-featured-testimony" class="fh5co-section">
+	<!--<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 fh5co-heading">
@@ -161,22 +161,21 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 
 	
-	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+	<!--<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Book a Table</h2>
-					<p>Reserve you table Today!!</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae enim quae vitae cupiditate, sequi quam ea id dolor reiciendis consectetur repudiandae. Rem quam, repellendus veniam ipsa fuga maxime odio? Eaque!</p>
 					<p><a href="mailto:info@yourdomainname.com" class="btn btn-primary btn-outline">Contact Us</a></p>
 				</div>
 			</div>
 		</div>
-	</div>
-
+	</div>-->
 
 	<?php include 'includes/footer.php';?>
 	</div>

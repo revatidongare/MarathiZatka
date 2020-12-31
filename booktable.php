@@ -7,7 +7,7 @@
 	
 	<div id="page">
 	<?php include 'includes/nav.php';?>
-	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/unnamed.jpg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -27,10 +27,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 fh5co-heading animate-box">
-					<h2>Reservation</h2>
+					<h2>Book A Table</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis. Ad magni perspiciatis, voluptatum repellat.</p>
+							<p>Reserved your table today..!!</p>
 						</div>
 					</div>
 				</div>
@@ -45,7 +45,7 @@
 						</div>
 						<div class="row form-group">
 							<div class="col-md-12">
-								<label for="many">How Many People</label>
+								<label for="many">No. of guests</label>
 								<select name="many" id="many" class="form-control custom_select">
 									<option value="#">1</option>
 									<option value="#">2</option>
@@ -74,7 +74,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-featured-testimony" class="fh5co-section">
+	<!--<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 fh5co-heading animate-box">
@@ -97,22 +97,22 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 
 	
 	
-	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+	<!--<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Book a Table</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae enim quae vitae cupiditate, sequi quam ea id dolor reiciendis consectetur repudiandae. Rem quam, repellendus veniam ipsa fuga maxime odio? Eaque!</p>
-					<p><a href="reservation.html" class="btn btn-primary btn-outline">Book Now</a></p>
+					<p>Reserve your table Today!!</p>
+					<p><a href="booktable.php" class="btn btn-primary btn-outline">Book Now</a></p>
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 
 	<?php include 'includes/footer.php';?>
 	</div>
