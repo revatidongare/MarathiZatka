@@ -215,7 +215,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			color: $brand-black!important;
 		}
 		a{
-			font-size: 60px;
+			font-size: 100px;
 			color: $brand-white!important;
 			.scrolled & {
 				color: $brand-black!important;
