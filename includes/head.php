@@ -47,6 +47,8 @@
 	<!-- Theme style  -->
 	<link rel="stylesheet" href="css/style.css">
 
+	
+
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
@@ -54,5 +56,5 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-
+	<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/sweetalert2@10.10.1/dist/sweetalert2.min.css'>
 	</head>

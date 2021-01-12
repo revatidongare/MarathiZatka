@@ -28,10 +28,10 @@
 	<div id="fh5co-contact" class="fh5co-section animate-box">
 		<div class="container">
 			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+				<div class="col-md-12  fh5co-heading animate-box">
 					<h2>Contact Us</h2>
 					<p></p>
-					<p><a href="mailto:info@yourdomainname.com" class="btn btn-primary btn-outline">Contact Us</a></p>
+					<!--<p><a href="mailto:info@yourdomainname.com" class="btn btn-primary btn-outline">Contact Us</a></p>-->
 				</div>
 			</div>
 			

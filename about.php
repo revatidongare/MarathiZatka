@@ -15,7 +15,7 @@
 				<div class="col-md-12 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<h1>About <em>our</em> Restaurant</h1>
+							<h1>About Restaurant</h1>
 						</div>
 					</div>
 				</div>
@@ -26,16 +26,17 @@
 	<div id="fh5co-about" class="fh5co-section">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6 col-md-pull-4 img-wrap animate-box" data-animate-effect="fadeInLeft">
+				<div class="col-md-6 col-md-pull-2 img-wrap animate-box" data-animate-effect="fadeInLeft">
 					<img src="images/p1.jpg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
 				</div>
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h2>The Marathi Zhataka</h2>
+						<h2>The Marathi Zhatkaa</h2>
 						<p>The Marathi jhatkaya of Shri Ravi Sheth Potfode in Tungarli village of Lonavla,
 						beautiful and attractive hotel makes you take a look at it at least once due to its emphasis on different styles of interior and Marathi dishes.</p>
-						<p>The Veg/Non-veg misal ,Veg/Non-veg Special Thali </p>
-						<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>
+						<p>The Veg/Non-veg misal ,Veg/Non-veg Special Thali and more Marathi Dishes.
+						Visit once to our restaurant for Tasty Foodie Experience . </p>
+						<!--<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>-->
 					</div>
 				</div>
 			</div>
@@ -142,22 +143,22 @@
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12 fh5co-heading">
+				<div class="col-md-12 fh5co-heading animate-box">
 					<h2>Testimony</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis.</p>
+							<p>Testimony is way to know the feedback of our customer.</p>
 						</div>
 					</div>
 				</div>
 
-				<div class="col-md-5 animate-box img-to-responsive">
-						<img src="images/person_1.jpg" alt="">
-				</div>
-				<div class="col-md-7 animate-box">
+				<!--<div class="col-md-5 animate-box img-to-responsive">
+						<img src="images/gallery_1.jpeg" alt="">
+				</div>-->
+				<div class="col-md-5 animate-box">
 					<blockquote>
-						<p> &ldquo; Quantum ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam. &rdquo;</p>
-						<p class="author"><cite>&mdash; Jane Smith</cite></p>
+						<p> &ldquo;This is beautiful and attractive hotel makes you take a look at it at least once due to its emphasis on different styles of interior and Marathi dishes. &rdquo;</p>
+						<p class="author"><cite>&mdash; Shri Ravi Sheth Potfode</cite></p>
 					</blockquote>
 				</div>
 			</div>
@@ -172,7 +173,8 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Book a Table</h2>
 					<p>Reserve you table Today!!</p>
-					<p><a href="mailto:info@yourdomainname.com" class="btn btn-primary btn-outline">Contact Us</a></p>
+					<p><a href="booktable.php" class="btn btn-primary btn-outline">Book Now</a></p>
+				<!--<p><a href="mailto:info@yourdomainname.com" class="btn btn-primary btn-outline">Book Now</a></p>-->
 				</div>
 			</div>
 		</div>

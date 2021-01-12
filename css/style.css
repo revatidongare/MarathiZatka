@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   #fh5co-header,
   .fh5co-cover {
-    padding: 3em 0;
+    padding: 6em 0;
   }
 }
 #fh5co-header .display-t,
@@ -548,7 +548,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border: none !important;
 }
 #fh5co-featured-testimony .fh5co-heading {
-  margin-bottom: 170px;
+  margin-bottom: 10px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured-testimony .fh5co-heading {
@@ -570,7 +570,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-testimony blockquote {
   border: none;
   position: relative;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 @media screen and (max-width: 992px) {
   #fh5co-featured-testimony blockquote {
@@ -578,7 +578,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #fh5co-featured-testimony blockquote p {
-  font-size: 40px;
+  font-size: 20px;
   line-height: 50px;
   font-style: italic;
   font-weight: 300;
@@ -586,7 +586,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 992px) {
   #fh5co-featured-testimony blockquote p {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 40px;
   }
 }
@@ -599,6 +599,7 @@ h1, h2, h3, h4, h5, h6, figure {
     color: rgba(255, 255, 255, 0.3);
   }
 }
+
 
 #fh5co-slider .fh5co-heading h2 {
   font-family: "Satisfy", cursive;
@@ -1769,7 +1770,7 @@ iframe {
   font-size: 20px;
   font-weight: 300;
   font-family: "Satisfy", cursive;
-  color: #fff;
+  color: #777777;
 }
 .form-control:active, .form-control:focus {
   outline: none;
@@ -1821,3 +1822,8 @@ textarea {
 }
 
 /*# sourceMappingURL=style.css.map */
+/*audio*/
+figure {
+    margin: 0;
+}
+

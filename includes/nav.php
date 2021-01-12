@@ -13,8 +13,8 @@
 							<li class="has-dropdown">
 								<a href="menu.php">Menu</a>
 								<ul class="dropdown">
-									<li><a href="#">Veg</a></li>
-									<li><a href="#">Non-Veg</a></li>
+									<li><a href="veg.php">Veg</a></li>
+									<li><a href="nonveg.php">Non-Veg</a></li>
 									
 								</ul>
 							</li>

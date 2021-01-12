@@ -15,7 +15,7 @@
 				<div class="col-md-12 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<h1>Marathi Zhatkaa Restaurant</h1>
+							<h1>Asaal Marathi Misal</h1>
 							<!--<h2>Brought to you by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>-->
 						</div>
 					</div>
@@ -35,7 +35,8 @@
 						<h2>The Marathi Zhatkaa</h2>
 						<p>The Marathi jhatkaya of Shri Ravi Sheth Potfode in Tungarli village of Lonavla,
 						beautiful and attractive hotel makes you take a look at it at least once due to its emphasis on different styles of interior and Marathi dishes.</p>
-						<p>The Veg/Non-veg misal ,Veg/Non-veg Special Thali </p>
+						<p>The Veg/Non-veg misal ,Veg/Non-veg Special Thali and more Marathi Dishes.
+						Visit once to our restaurant for Tasty Foodie Experience . </p>
 						<!--<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>-->
 					</div>
 				</div>
@@ -112,7 +113,7 @@
 						   			<div class="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
 						   				<div class="slider-text-inner">
 						   					<div class="desc">
-													<h2>Chiken Misal</h2>
+													<h2>Chicken Misal</h2>
 													<p>Chiken Misal is our one of the special dish of our restaurant.</p>
 													<p><a href="#" class="btn btn-primary btn-outline">Learn More</a></p>
 						   					</div>
@@ -144,7 +145,7 @@
 						   			<div class="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
 						   				<div class="slider-text-inner">
 						   					<div class="desc">
-													<h2>Chiken <em>&amp;</em> Mutton Thali</h2>
+													<h2>Chicken <em>&amp;</em> Mutton Thali</h2>
 													<p>Special Thali with Non-veg .Both Mutton & Chiken thali are Available.</p>
 													<p><a href="#" class="btn btn-primary btn-outline">Learn More</a></p>
 						   					</div>
@@ -169,23 +170,24 @@
 					<h2>Testimony</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis.</p>
+							<p>Testimony is way to know the feedback of our customer.</p>
 						</div>
 					</div>
 				</div>
 
-				<div class="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
-						<img src="images/person_1.jpg" alt="">
-				</div>
-				<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
+				<!--<div class="col-md-5 animate-box img-to-responsive">
+						<img src="images/gallery_1.jpeg" alt="">
+				</div>-->
+				<div class="col-md-6 animate-box">
 					<blockquote>
-						<p> &ldquo; Quantum ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam. &rdquo;</p>
-						<p class="author"><cite>&mdash; Jane Smith</cite></p>
+						<p> &ldquo;This is beautiful and attractive hotel makes you take a look at it at least once due to its emphasis on different styles of interior and Marathi dishes. &rdquo;</p>
+						<p class="author"><cite>&mdash; Shri Ravi Sheth Potfode</cite></p>
 					</blockquote>
 				</div>
 			</div>
 		</div>
 	</div>
+
 <!--BOOK A TABLE-->
 	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
@@ -283,7 +285,9 @@
 	<script src="js/jquery.flexslider-min.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
+	
 
+	
 	</body>
 </html>
 

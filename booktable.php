@@ -36,33 +36,34 @@
 				</div>
 				
 				<div class="col-md-6 col-md-push-6 col-sm-6 col-sm-push-6">
-					<form action="#" id="form-wrap">
+					<form action="back.php" method="post">
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label for="name">Your Name</label>
-								<input type="text" class="form-control" id="name">
+								<input type="text" name="name" class="form-control" id="name">
 							</div>
 						</div>
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label for="many">No. of guests</label>
 								<select name="many" id="many" class="form-control custom_select">
-									<option value="#">1</option>
-									<option value="#">2</option>
-									<option value="#">3</option>
-									<option value="#">4+</option>
+									<option value="1">1</option>
+									<option value="2">2</option>
+									<option value="3">3</option>
+									<option value="4">4+</option>
 								</select>
 							</div>
 						</div>
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label for="taskdatetime">When</label>
-								<input type="text" name="task-datetime" id="taskdatetime" class="form-control"/>
+								<input type="text" name="taskdatetime" id="taskdatetime" class="form-control"/>
 							</div>
 						</div>
 						<div class="row form-group">
 							<div class="col-md-12">
-								<input type="submit" class="btn btn-primary btn-outline btn-lg" value="Submit Form">
+								<input type="submit" name="contact" id="contact"class="btn btn-primary btn-outline btn-lg" value="Submit Form">
+
 							</div>
 						</div>
 
@@ -141,6 +142,15 @@
 
 	<!-- Main -->
 	<script src="js/main.js"></script>
+	<!--Sweetalert-->
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.10.1/dist/sweetalert2.all.min.js"></script>
+	<script>
+		document.querySelector(".submit").addEventListener('click', function(){
+  		Swal.fire("Table Book Done");
+		});
+	</script>
+
+	
 
 	</body>
 </html>
